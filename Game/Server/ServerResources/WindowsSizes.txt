@@ -1,0 +1,20 @@
+#Main window size H,W
+value0=700
+value1=1200
+
+# Name set window size H,W
+value2=300
+value3=600
+
+#Game window size H,W
+value4=300
+value5=300
+
+#Right Display size H,W
+value6=200
+value7=200
+
+#Server panel H,W
+value8=300
+value9=600
+

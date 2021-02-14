@@ -1,0 +1,15 @@
+line0= Instrukcja
+line1=Celem gry jest przejscie 3 poziomow.
+line2=Kazdy z nich to labirynt zlozony z blokow o dwoch kolorach i otaczajaca go ramka, za ktora nie mozna wyjsc.
+line3=Poziom konczy sie, wchodzac w ukryty na planszy portal.
+line4=Porusza sie po mapie za pomocastrzalek.
+line5=Niektore bloki moga ulec zniszczeniu, wskutek podlozenia przez gracza bomby. Bombe stawia sie wciskajac spacje.
+line6=Jest ona w stanie zniszczycblok odlegly od niej na nie wiecej niz jedna jednostke. Jednostka to najmniejsza widoczna kratka.
+line7=Kazdy blok zajmuje jedna jednostke.Pod jednym z nich ukryty jest portal konczacy poziom. .
+line8=        Punktacja           
+line9=Za zniszczenie ceglanego bloku przysluguje 10 punktow.
+line10=Blok czerwony jest odporny na wybuchy.
+line11=Pod blokiem, oprocz portalu, moze znajdowac sie kulka ze 100-punktowym bonusem.
+line12=Po mapie poruszaja sie rowniez karakany wrazliwe na wybuch bombytak samo jak ceglane bloki. Kazdy kontakt gracza
+line13=z karakanem skutkuje utrata jednego zycia. Nagroda za zabicie karakana wynosi 50 pkt.
+line14=Powodzenia!\n

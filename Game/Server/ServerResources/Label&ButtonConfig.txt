@@ -1,0 +1,17 @@
+#Game name
+value0=BombermanOnline
+
+#MenuPanel ButtonsLabel
+value1=Graj
+value2=Statystyki
+value3=Instrukcja
+
+#NameSetPanel ButtonsLabel
+value4=Cofnij
+value5=PodajSwojeImie
+
+#RightDisplay LabelsText
+value6=     Level     
+value7=     Punkty     
+value8=     Zycia     
+

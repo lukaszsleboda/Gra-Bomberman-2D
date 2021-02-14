@@ -1,0 +1,14 @@
+#Clipper Speed->Points->Direction
+value1=2
+value2=50
+value3=1
+
+#PointsPack Points
+value4=100
+
+#Player lifes
+value5=3
+
+#Wall Points
+value6=10
+

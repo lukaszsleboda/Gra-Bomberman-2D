@@ -1,0 +1,21 @@
+#Thu Jun 04 17:28:47 CEST 2020
+score6=100
+score7=160
+score8=230
+score9=250
+score2=400
+score3=300
+score4=260
+score5=200
+nick9=Adam
+nick10=Radek
+nick8=Krzysiek
+nick7=Przemek
+nick6=Waldek
+nick5=Rafal
+nick4=ktosnowy
+nick3=Tomek
+nick2=Waldek
+nick1=Darek
+score1=500
+score10=500
